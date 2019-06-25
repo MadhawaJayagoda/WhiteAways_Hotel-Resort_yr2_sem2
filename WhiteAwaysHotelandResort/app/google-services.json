@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "795257135209",
+    "firebase_url": "https://whiteawayshotelandresort.firebaseio.com",
+    "project_id": "whiteawayshotelandresort",
+    "storage_bucket": "whiteawayshotelandresort.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795257135209:android:ca18fe4f7baf9d93",
+        "android_client_info": {
+          "package_name": "com.example.whiteawayshotelandresort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795257135209-b8184o451qaguv54vneb7gmdas61n5ij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whiteawayshotelandresort",
+            "certificate_hash": "a4783b15bd2b4ab318108a868235d499946a85cf"
+          }
+        },
+        {
+          "client_id": "795257135209-q17fnt5rhfmn20dujmif0s81bu3uhnim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8VWCSguR3e6s8kh8APoWXF87Xvezv_Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795257135209-q17fnt5rhfmn20dujmif0s81bu3uhnim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">WhiteAways Hotel &amp; Resort</string>
+    <string name="room_management">Room Management</string>
+    <string name="list_occupied_rooms">List Occupied Rooms</string>
+    <string name="list_availble_rooms">List Available Rooms</string>
+    <string name="advance_options">Advance</string>
+    <string name="add_new_room">Add New Room</string>
+    <string name="delete_room">Delete Room</string>
+    <string name="update_room_details">Update Room Details</string>
+    <string name="search_room">Search Room by ID</string>
+    <string name="set_room_reservation">Room Reservation</string>
+    <string name="set_room_status">Update Room Status</string>
+    <string name="heading"><![CDATA[WhiteAways Hotel & Resort]]></string>
+    <string name="room_id">Room ID </string>
+    <string name="check_in">Check In </string>
+    <string name="check_out">Check Out </string>
+    <string name="made_by">Customer Name :</string>
+    <string name="no_of_people">Number of people :</string>
+    <string name="amount_adult">Adults </string>
+    <string name="amount_children">Children </string>
+    <string name="no_of_days">Number of days : </string>
+    <string name="calculate_amount">Calculate Total</string>
+    <string name="next">Next</string>
+    <string name="payment_option">Select Payment Option </string>
+    <string name="confirm">Confirm and Pay</string>
+    <string name="select_status">Select Status </string>
+    <string name="ready_status">Ready</string>
+    <string name="cleaing_state">Cleaning</string>
+    <string name="inspection_state">Under Inspection</string>
+    <string name="construction_state">Under Construction</string>
+    <string name="set_state">Set State</string>
+    <string name="back">Back</string>
+    <string name="input_room_id" />
+    <string name="input_checkin" />
+    <string name="input_checkout" />
+    <string name="display_days" />
+    <string name="input_customer_name" />
+    <string name="input_adults" />
+    <string name="input_children" />
+    <string name="display_details" />
+    <string name="paypal" />
+    <string name="payment_method1">Credit or Debit card</string>
+    <string name="payment_method2">Cash payment</string>
+    <string name="floor">Floor</string>
+    <string name="room_size">Room size</string>
+    <string name="room_description">Description</string>
+    <string name="price">Price per Night</string>
+    <string name="submit">Submit</string>
+    <string name="input_floor" />
+    <string name="input_size" />
+    <string name="input_room_description" />
+    <string name="input_price" />
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="confirm_and_delete">Confirm and Delete</string>
+    <string name="search">Search</string>
+    <string name="room_status">Status</string>
+    <string name="display_room_id" />
+    <string name="display_floor" />
+    <string name="display_size" />
+    <string name="display_status" />
+    <string name="display_room_description" />
+    <string name="reservation_madeby">Reservation Made By</string>
+    <string name="date_in">Date in</string>
+    <string name="date_out">Date out</string>
+    <string name="display_occupied_room_list" />
+    <string name="size">Size</string>
+    <string name="display_available_room_list" />
+    <string name="calculate_btn">Calculate</string>
+    <string name="list_customer_details">List Customer Details</string>
+    <string name="list_rooms">List Rooms</string>
+
+    // Elements for the spinner
+    <array name="status">
+        <item>Available</item>
+        <item>Occupied</item>
+        <item>Cleaning</item>
+        <item>Under Inspection</item>
+        <item>Under Construction</item>
+    </array>
+</resources>

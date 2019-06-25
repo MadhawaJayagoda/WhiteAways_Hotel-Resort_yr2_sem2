@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.whiteawayshotelandresort">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".DisplayAvailableRooms"
+            android:parentActivityName=".MainActivity1"></activity>
+        <activity
+            android:name=".DisplayOccupiedRooms"
+            android:parentActivityName=".MainActivity1" />
+        <activity
+            android:name=".DisplaySearchResults"
+            android:parentActivityName=".SearchRoom" />
+        <activity
+            android:name=".SearchRoom"
+            android:parentActivityName=".MainActivity2" />
+        <activity
+            android:name=".VerifyDelete"
+            android:parentActivityName=".DeleteRoom" />
+        <activity
+            android:name=".DeleteRoom"
+            android:parentActivityName=".MainActivity2" />
+        <activity
+            android:name=".UpdateRoom"
+            android:parentActivityName=".MainActivity2" />
+        <activity
+            android:name=".AddNewRoom"
+            android:parentActivityName=".MainActivity2" />
+        <activity
+            android:name=".UpdateStatus"
+            android:parentActivityName=".MainActivity1" />
+        <activity
+            android:name=".DisplayPayment"
+            android:parentActivityName=".ReservationActivity2" />
+        <activity
+            android:name=".ReservationActivity2"
+            android:parentActivityName=".ReservationActivity1" />
+
+        <meta-data
+            android:name="com.google.android.actions"
+            android:resource="@drawable/rounded_corner" />
+
+        <activity android:name=".UpdateCustomer" />
+        <activity android:name=".AddCustomer"/>
+        <activity android:name=".ListCustomer"/>
+        <activity android:name=".Addcleaner"/>
+        <activity android:name=".DeleteCleaning"/>
+        <activity android:name=".cSchedule"/>
+        <activity android:name=".UpdateCleaning"/>
+        <activity android:name=".cleaningmanagement"/>
+
+
+
+        <activity
+            android:name=".ReservationActivity1"
+            android:parentActivityName=".MainActivity1" />
+        <activity
+            android:name=".MainActivity2"
+            android:parentActivityName=".MainActivity1" />
+        <activity android:name=".MainActivity1"
+            android:parentActivityName=".MainActivity"></activity>
+        <activity android:name=".EmployeeLeave"
+            android:parentActivityName=".EmpMainActivity"
+            ></activity>
+        <activity
+            android:name=".DeleteEmployee"
+            android:parentActivityName=".EmpMainActivity" />
+        <activity
+            android:name=".UpdateEmployee"
+            android:parentActivityName=".EmpMainActivity" />
+        <activity
+            android:name=".AddEmployee"
+            android:parentActivityName=".EmpMainActivity" />
+        <activity android:name=".EmpMainActivity"></activity>
+        <activity android:name=".deleteCustomer"/>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

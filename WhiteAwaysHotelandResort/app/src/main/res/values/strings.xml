@@ -1,0 +1,222 @@
+<resources>
+    <string name="app_name">WhiteAways Hotel &amp; Resort</string>
+    <string name="hotel_name"><![CDATA[WhiteAways hotel & resort]]></string>
+    <string name="employee_management">Employee Management</string>
+    <string name="room_availability">Room Availability</string>
+    <string name="customer_management">Customer Management</string>
+    <string name="cleaning_management">Cleaning Management</string>
+    <string name="login">Login</string>
+    <string name="room_management">Room Management</string>
+
+    <string name="list_occupied_rooms">List Occupied Rooms</string>
+
+    <string name="list_availble_rooms">List Available Rooms</string>
+
+    <string name="advance_options">Advance</string>
+
+    <string name="add_new_room">Add New Room</string>
+
+    <string name="delete_room">Delete Room</string>
+
+    <string name="update_room_details">Update Room Details</string>
+
+    <string name="search_room">Search Room by ID</string>
+
+    <string name="set_room_reservation">Room Reservation</string>
+
+    <string name="set_room_status">Update Room Status</string>
+
+
+    -<string name="heading">
+
+
+</string>
+
+    <string name="room_id">Room ID </string>
+
+    <string name="check_in">Check In </string>
+
+    <string name="check_out">Check Out </string>
+
+    <string name="made_by">Customer Name :</string>
+
+    <string name="no_of_people">Number of people :</string>
+
+    <string name="amount_adult">Adults </string>
+
+    <string name="amount_children">Children </string>
+
+    <string name="no_of_days">Number of days : </string>
+
+    <string name="calculate_amount">Calculate Total</string>
+
+    <string name="next">Next</string>
+
+    <string name="payment_option">Select Payment Option </string>
+
+    <string name="confirm">Confirm and Pay</string>
+
+    <string name="select_status">Select Status </string>
+
+
+
+    <string name="ready_status">Ready</string>
+
+    <string name="cleaing_state">Cleaning</string>
+
+    <string name="inspection_state">Under Inspection</string>
+
+    <string name="construction_state">Under Construction</string>
+
+    <string name="set_state">Set State</string>
+
+    <string name="back">Back</string>
+
+    <string name="input_room_id"/>
+
+    <string name="input_checkin"/>
+
+    <string name="input_checkout"/>
+
+    <string name="display_days"/>
+
+    <string name="input_customer_name"/>
+
+    <string name="input_adults"/>
+
+    <string name="input_children"/>
+
+    <string name="display_details"/>
+
+    <string name="paypal"/>
+
+    <string name="payment_method1">Credit or Debit card</string>
+
+    <string name="payment_method2">Cash payment</string>
+
+    <string name="floor">Floor</string>
+
+    <string name="room_size">Room size</string>
+
+    <string name="room_description">Description</string>
+
+    <string name="price">Price per Night</string>
+
+    <string name="submit">Submit</string>
+
+    <string name="input_floor"/>
+
+    <string name="input_size"/>
+
+    <string name="input_room_description"/>
+
+    <string name="input_price"/>
+
+    <string name="delete">Delete</string>
+
+    <string name="confirm_and_delete">Confirm and Delete</string>
+
+    <string name="search">Search</string>
+
+    <string name="room_status">Status</string>
+
+    <string name="display_room_id"/>
+
+    <string name="display_floor"/>
+
+    <string name="display_size"/>
+
+    <string name="display_status"/>
+
+    <string name="display_room_description"/>
+
+    <string name="reservation_madeby">Reservation Made By</string>
+
+    <string name="date_in">Date in</string>
+
+    <string name="date_out">Date out</string>
+
+    <string name="display_occupied_room_list"/>
+
+    <string name="size">Size</string>
+
+    <string name="display_available_room_list"/>
+
+    <string name="fname">Full Name</string>
+    <string name="roomno">Room No</string>
+    <string name="cintime">Check-in</string>
+    <string name="couttime">Check-out</string>
+    <string name="entr">Enter</string>
+    <string name="updttxt">Update</string>
+    <string name="newcusttxt">Add New Customer</string>
+    <string name="sendtxt">Send</string>
+    <string name="cnfrm">Confirm</string>
+
+    <string name="edit">Edit</string>
+    <string name="updatebtn">Update</string>
+    <string name="schedhead">Schedule a Cleaning</string>
+    <string name="roomnumtxt">Room Number</string>
+    <string name="cldatetxt">Date for cleaning</string>
+    <string name="cltypetxt">Cleaning Type</string>
+    <string name="st">Status</string>
+    <string name="clnschdtxt">Cleaning Schedule</string>
+    <string name="updtclnsttxt">Update Cleaning Status</string>
+    <string name="welccleantxt">Welcome to Cleaning Management!</string>
+    <string name="addbtn">New Cleaning</string>
+    <string name="cleanschedbtn">Cleaning Schedule</string>
+    <string name="updttxtbtn">Update Cleaning Status</string>
+    <string name="mainclean">Main Cleaning Window</string>
+    <string name="Add_Employee">Add Employee</string>
+    <string name="Update_Employee">Update Employee</string>
+    <string name="Delete_Employee">Delete Employee</string>
+    <string name="Full_Name">Full Name</string>
+    <string name="Address">Address</string>
+    <string name="Phone">Phone</string>
+    <string name="add_employeeTopic">Add Employee</string>
+    <string name="gender">Gender</string>
+    <string name="dateofBirth">Date Of Birth</string>
+    <string name="addmemberback">Back</string>
+    <string name="addemployeenext">Next</string>
+    <string name="addemployeeemail">Email</string>
+    <string name="addemployeegender">Gender</string>
+    <string name="addemployeedateofbirth">Date of Birth</string>
+    <string name="addemployeemale">Male</string>
+    <string name="addemployeefemale">Female</string>
+    <string name="addmemberphone">Phone</string>
+    <string name="updateback">Back</string>
+    <string name="updatenext">Next</string>
+    <string name="updatesearch">Search Employee by ID</string>
+    <string name="updateemployee">Update Employee Details</string>
+    <string name="deleteemployee">Delete Employee Details</string>
+    <string name="deletesearch">Search Employee by ID</string>
+    <string name="id">ID</string>
+    <string name="listcusttxt">Customer List</string>
+    <string name="list_customer_details">List Customer Details</string>
+    <string name="list_rooms">List Rooms</string>
+    <string name="calculate_btn">Calculate</string>
+    <string name="update">Update</string>
+
+    <string name ="header">WhiteAways Hotel and Resort</string>
+    <string name ="deletetxt">Delete</string>
+    <string name="addstat">Not yet begun</string>
+    <string name="roomnocolumn">Room</string>
+    <string name="datecol">Date</string>
+    <string name="delClean">Delete A Cleaning</string>
+    <string-array name="cleaningtypes">
+        <item>Full Cleaning</item>
+        <item>Room only</item>
+        <item>Bathroom only</item>
+    </string-array>
+    <string-array name="cleanstatus">
+        <item>Complete</item>
+        <item>In Progress</item>
+        <item>Not started</item>
+    </string-array>
+    <array name="status">
+        <item>Available</item>
+        <item>Occupied</item>
+        <item>Cleaning</item>
+        <item>Under Inspection</item>
+        <item>Under Construction</item>
+    </array>
+</resources>

@@ -1,0 +1,1 @@
+include ':app', ':roomapp', ':custapp', ':cleanapp', ':empapp', ':emp1app', ':myapplication'

@@ -1,0 +1,1 @@
+'app' folder has all the java files and resources of all the memebers integrated. So go inside 'app' folder.

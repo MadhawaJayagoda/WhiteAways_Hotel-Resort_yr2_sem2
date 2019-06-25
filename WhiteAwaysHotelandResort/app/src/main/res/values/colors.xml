@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="redPink">#a6767c</color>
+    <color name="bronze">#bdb2a0</color>
+    <color name="grey">#CFCFCF</color>
+    <color name="light_dark_grey">#bfbfbf</color>
+    <color name="dark_grey">#858585</color>
+    <color name="dim_grey">#696969</color>
+    <color name="dark_gold">#836e00</color>
+
+</resources>
